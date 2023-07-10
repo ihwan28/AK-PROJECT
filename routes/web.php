@@ -42,3 +42,7 @@ Route::get('/pasangLowongan', function () {
         "title" => "Pasang Lowongan"
     ]);
 });
+
+route::get('/login', function () {
+    return view('auth/login');
+});
