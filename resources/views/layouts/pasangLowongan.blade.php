@@ -23,6 +23,7 @@
     <link href="assets/vendor/aos/aos.css" rel="stylesheet">
     <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
     <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+    
 
     <!-- Template Main CSS File -->
     <link href="assets/css/main.css" rel="stylesheet">
@@ -31,10 +32,13 @@
         integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     {{-- mystyle css --}}
     <link rel="stylesheet" type="text/css"href="assets2/css/tampilan-awal.css">
+    <link rel="stylesheet" type="text/css"href="assets/css/pasangLowongan.css">
+    <link rel="stylesheet" type="text/css"href="assets/css/main.css">
 
     {{-- icons --}}
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
     rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
     <!-- =======================================================
   ======================================================== -->
 </head>
@@ -65,6 +69,7 @@
     <script src="assets/vendor/purecounter/purecounter_vanilla.js "></script>
     <script src="assets/vendor/swiper/swiper-bundle.min.js "></script>
     <script src="assets/vendor/php-email-form/validate.js "></script>
+    <script src="https://kit.fontawesome.com/c2d4601d88.js" crossorigin="anonymous"></script>
 
     <!-- Template Main JS File -->
     <script src="assets/js/main.js "></script>
