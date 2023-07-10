@@ -18,7 +18,7 @@
         </nav>
         <!-- .navbar -->
 
-        <a class="btn" style="background-color: #F26419; color: aliceblue;" href="#book-a-table ">Masuk</a>
+        <a class="btn" style="background-color: #F26419; color: aliceblue;"  href="/login ">Masuk</a>
         <i class="mobile-nav-toggle mobile-nav-show bi bi-list"></i>
         <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
 
